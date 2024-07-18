@@ -25,3 +25,10 @@ This tool aims to compress large texts into summaries and well-formatted prompts
 Also, if you want a C version of compression, I'm better with Python so I made this but will eventually be 100% C.
 
 [GitHub Repository](https://github.com/tunahorse/TextRank_local_text_summarizer)
+
+
+to run just do. See text files for examples of compressing a PG essay and a compressed essay being passed to a prompt format (buggy). 
+script/text file/% to compress down to
+python textrank_prompt_formatter.py input.txt 20
+
+currently obsessed with solving this problem if you want to chat shoot me an email at fabiananguiano@gmail DOT com 
