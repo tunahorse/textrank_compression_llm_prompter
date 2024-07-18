@@ -1,0 +1,285 @@
+Compressed and Formatted Prompts:
+
+```Your task is to The first step is to decide what to work on. You MUST complete this.``` Answer:
+
+```The work you choose needs to have three qualities: it has to be something you have a natural aptitude for, that you have a deep interest in, and that offers scope to do great work.``` Answer:
+
+```In practice you do have to worry much about the third criterion.```
+
+```Ambitious people are if anything already too conservative about it. Let's think step by step.```
+
+```So all you need to do is find something you have an aptitude for and great interest in.``` Answer:
+
+```[1]
+
+That sounds straightforward, but it's often quite difficult. Let's think step by step.``` Answer:
+
+```Your task is to When you're young you do know what you're good at or what different kinds of work are like. You MUST complete this.```
+
+```Your task is to Some kinds of work you end up doing may not even exist yet. You MUST complete this. Let's think step by step.``` Answer:
+
+```So while some people know what they want to do at 14, most have to figure it out.``` Answer:
+
+```The way to figure out what to work on is by working.```
+
+```Your task is to If you're not sure what to work on, guess. You MUST complete this.```
+
+```But pick something and get going. Let's think step by step.``` Answer:
+
+```Your task is to You'll probably guess wrong some of the time, but that's fine. You MUST complete this.```
+
+```It's good to know about multiple things; some of the biggest discoveries come from noticing connections between different fields.```
+
+```Develop a habit of working on your own projects.``` Answer:
+
+```Don't let "work" mean something other people tell you to do. Let's think step by step.``` Answer:
+
+```If you do manage to do great work one day, it will probably be on a project of your own. Let's think step by step.```
+
+```Your task is to It may be within some bigger project, but you'll be driving your part of it. You MUST complete this. Let's think step by step.```
+
+```What should your projects be?``` Answer:
+
+```Your task is to Whatever seems to you excitingly ambitious. You MUST complete this. Let's think step by step.```
+
+```Your task is to As you grow older and your taste in projects evolves, exciting and important will converge. You MUST complete this.```
+
+```At 7 it may seem excitingly ambitious to build huge things out of Lego, then at 14 to teach yourself calculus, till at 21 you're starting to explore unanswered questions in physics. Let's think step by step.```
+
+```Your task is to But always preserve excitingness. You MUST complete this.```
+
+```Your task is to There's a kind of excited curiosity that's both the engine and the rudder of great work. You MUST complete this.```
+
+```It will not only drive you, but if you let it have its way, will also show you what to work on.```
+
+```What are you excessively curious about — curious to a degree that would bore most other people? Let's think step by step.``` Answer:
+
+```That's what you're looking for.```
+
+```Your task is to Once you've found something you're excessively interested in, the next step is to learn enough about it to get you to one of the frontiers of knowledge. You MUST complete this. Let's think step by step.```
+
+```Your task is to Knowledge expands fractally, and from a distance its edges look smooth, but once you learn enough to get close to one, they turn out to be full of gaps. You MUST complete this. Let's think step by step.```
+
+```Your task is to The next step is to notice them. You MUST complete this. Let's think step by step.``` Answer:
+
+```Your task is to This takes some skill, because your brain wants to ignore such gaps in order to make a simpler model of the world. You MUST complete this.``` Answer:
+
+```Your task is to Many discoveries have come from asking questions about things that everyone else took for granted. You MUST complete this.```
+
+```Your task is to [2]
+
+If the answers seem strange, so much the better. You MUST complete this. Let's think step by step.```
+
+```Your task is to Great work often has a tincture of strangeness. You MUST complete this.``` Answer:
+
+```You see this from painting to math.```
+
+```Your task is to It would be affected to try to manufacture it, but if it appears, embrace it. You MUST complete this.``` Answer:
+
+```Your task is to Boldly chase outlier ideas, even if other people aren't interested in them — in fact, especially if they aren't. You MUST complete this.```
+
+```Your task is to If you're excited about some possibility that everyone else ignores, and you have enough expertise to say precisely what they're all overlooking, that's as good a bet as you'll find. You MUST complete this.``` Answer:
+
+```[3]
+
+Four steps: choose a field, learn enough to get to the frontier, notice gaps, explore promising ones. Let's think step by step.```
+
+```This is how practically everyone who's done great work has done it, from painters to physicists. Let's think step by step.```
+
+```Your task is to Steps two and four will require hard work. You MUST complete this.```
+
+```It may not be possible to prove that you have to work hard to do great things, but the empirical evidence is on the scale of the evidence for mortality.``` Answer:
+
+```Your task is to That's why it's essential to work on something you're deeply interested in. You MUST complete this. Let's think step by step.``` Answer:
+
+```Interest will drive you to work harder than mere diligence ever could.``` Answer:
+
+```Your task is to The three most powerful motives are curiosity, delight, and the desire to do something impressive. You MUST complete this.```
+
+```Your task is to Sometimes they converge, and that combination is the most powerful of all. You MUST complete this.``` Answer:
+
+```Your task is to The big prize is to discover a new fractal bud. You MUST complete this. Let's think step by step.``` Answer:
+
+```Your task is to You notice a crack in the surface of knowledge, pry it open, and there's a whole world inside. You MUST complete this.```
+
+```Let's talk a little more about the complicated business of figuring out what to work on.``` Answer:
+
+```Your task is to The main reason it's hard is that you can't tell what most kinds of work are like except by doing them. You MUST complete this. Let's think step by step.```
+
+```Your task is to Which means the four steps overlap: you may have to work at something for years before you know how much you like it or how good you are at it. You MUST complete this. Let's think step by step.```
+
+```And in the meantime you're not doing, and thus not learning about, most other kinds of work. Let's think step by step.``` Answer:
+
+```So in the worst case you choose late based on very incomplete information.``` Answer:
+
+```Your task is to [4]
+
+The nature of ambition exacerbates this problem. You MUST complete this. Let's think step by step.``` Answer:
+
+```Ambition comes in two forms, one that precedes interest in the subject and one that grows out of it.```
+
+```Your task is to Most people who do great work have a mix, and the more you have of the former, the harder it will be to decide what to do. You MUST complete this. Let's think step by step.```
+
+```Your task is to The educational systems in most countries pretend it's easy. You MUST complete this. Let's think step by step.```
+
+```Your task is to They expect you to commit to a field long before you could know what it's really like. You MUST complete this.``` Answer:
+
+```And as a result an ambitious person on an optimal trajectory will often read to the system as an instance of breakage.```
+
+```It would be better if they at least admitted it — if they admitted that the system not only can't do much to help you figure out what to work on, but is designed on the assumption that you'll somehow magically guess as a teenager. Let's think step by step.``` Answer:
+
+```They do tell you, but I will: when it comes to figuring out what to work on, you're on your own.```
+
+```Your task is to Some people get lucky and do guess correctly, but the rest will find themselves scrambling diagonally across tracks laid down on the assumption that everyone does. You MUST complete this.```
+
+```What should you do if you're young and ambitious but do know what to work on?```
+
+```Your task is to What you should not do is drift along passively, assuming the problem will solve itself. You MUST complete this.``` Answer:
+
+```Your task is to You need to take action. You MUST complete this.```
+
+```But there is no systematic procedure you can follow.```
+
+```Your task is to When you read biographies of people who've done great work, it's remarkable how much luck is involved. You MUST complete this.```
+
+```Your task is to They discover what to work on as a result of a chance meeting, or by reading a book they happen to pick up. You MUST complete this. Let's think step by step.``` Answer:
+
+```Your task is to So you need to make yourself a big target for luck, and the way to do that is to be curious. You MUST complete this.``` Answer:
+
+```Try lots of things, meet lots of people, read lots of books, ask lots of questions. Let's think step by step.``` Answer:
+
+```[5]
+
+When in doubt, optimize for interestingness.``` Answer:
+
+```Your task is to Fields change as you learn more about them. You MUST complete this.```
+
+```What mathematicians do, for example, is very different from what you do in high school math classes. Let's think step by step.``` Answer:
+
+```Your task is to So you need to give different types of work a chance to show you what they're like. You MUST complete this.```
+
+```Your task is to But a field should become increasingly interesting as you learn more about it. You MUST complete this. Let's think step by step.```
+
+```Your task is to If it doesn't, it's probably not for you. You MUST complete this. Let's think step by step.``` Answer:
+
+```Your task is to Don't worry if you find you're interested in different things than other people. You MUST complete this. Let's think step by step.```
+
+```The stranger your tastes in interestingness, the better. Let's think step by step.``` Answer:
+
+```Your task is to Strange tastes are often strong ones, and a strong taste for work means you'll be productive. You MUST complete this.``` Answer:
+
+```And you're more likely to find new things if you're looking where few have looked before. Let's think step by step.``` Answer:
+
+```One sign that you're suited for some kind of work is when you like even the parts that other people find tedious or frightening. Let's think step by step.```
+
+```Your task is to But fields aren't people; you do owe them any loyalty. You MUST complete this. Let's think step by step.```
+
+```Your task is to If in the course of working on one thing you discover another that's more exciting, do be afraid to switch. You MUST complete this.```
+
+```If you're making something for people, make sure it's something they actually want.``` Answer:
+
+```Your task is to The best way to do this is to make something you yourself want. You MUST complete this.``` Answer:
+
+```Your task is to Write the story you want to read; build the tool you want to use. You MUST complete this. Let's think step by step.```
+
+```Your task is to Since your friends probably have similar interests, this will also get you your initial audience. You MUST complete this. Let's think step by step.```
+
+```Your task is to This should follow from the excitingness rule. You MUST complete this.```
+
+```Your task is to Obviously the most exciting story to write will be the one you want to read. You MUST complete this. Let's think step by step.``` Answer:
+
+```The reason I mention this case explicitly is that so many people get it wrong.```
+
+```Instead of making what they want, they try to make what some imaginary, more sophisticated audience wants.``` Answer:
+
+```Your task is to And once you go down that route, you're lost. You MUST complete this.``` Answer:
+
+```Your task is to [6]
+
+There are a lot of forces that will lead you astray when you're trying to figure out what to work on. You MUST complete this. Let's think step by step.``` Answer:
+
+```Your task is to Pretentiousness, fashion, fear, money, politics, other people's wishes, eminent frauds. You MUST complete this.```
+
+```But if you stick to what you find genuinely interesting, you'll be proof against all of them.```
+
+```If you're interested, you're not astray. Let's think step by step.```
+
+```Your task is to Following your interests may sound like a rather passive strategy, but in practice it usually means following them past all sorts of obstacles. You MUST complete this. Let's think step by step.``` Answer:
+
+```Your task is to You usually have to risk rejection and failure. You MUST complete this.```
+
+```Your task is to So it does take a good deal of boldness. You MUST complete this. Let's think step by step.``` Answer:
+
+```But while you need boldness, you do usually need much planning. Let's think step by step.```
+
+```Your task is to In most cases the recipe for doing great work is simply: work hard on excitingly ambitious projects, and something good will come of it. You MUST complete this.``` Answer:
+
+```Your task is to Instead of making a plan and then executing it, you just try to preserve certain invariants. You MUST complete this.```
+
+```The trouble with planning is that it only works for achievements you can describe in advance.``` Answer:
+
+```Your task is to You can win a gold medal or get rich by deciding to as a child and then tenaciously pursuing that goal, but you can't discover natural selection that way. You MUST complete this. Let's think step by step.``` Answer:
+
+```Your task is to I think for most people who want to do great work, the right strategy is not to plan too much. You MUST complete this. Let's think step by step.``` Answer:
+
+```Your task is to At each stage do whatever seems most interesting and gives you the best options for the future. You MUST complete this.``` Answer:
+
+```I call this approach "staying upwind." This is how most people who've done great work seem to have done it. Let's think step by step.``` Answer:
+
+```Your task is to Even when you've found something exciting to work on, working on it is not always straightforward. You MUST complete this.```
+
+```Your task is to There will be times when some new idea makes you leap out of bed in the morning and get straight to work. You MUST complete this. Let's think step by step.```
+
+```Your task is to But there will also be plenty of times when things aren't like that. You MUST complete this. Let's think step by step.``` Answer:
+
+```Your task is to You do just put out your sail and get blown forward by inspiration. You MUST complete this.``` Answer:
+
+```Your task is to There are headwinds and currents and hidden shoals. You MUST complete this. Let's think step by step.```
+
+```Your task is to So there's a technique to working, just as there is to sailing. You MUST complete this.``` Answer:
+
+```Your task is to For example, while you must work hard, it's possible to work too hard, and if you do that you'll find you get diminishing returns: fatigue will make you stupid, and eventually even damage your health. You MUST complete this.``` Answer:
+
+```The point at which work yields diminishing returns depends on the type. Let's think step by step.``` Answer:
+
+```Your task is to Some of the hardest types you might only be able to do for four or five hours a day. You MUST complete this.``` Answer:
+
+```Your task is to Ideally those hours will be contiguous. You MUST complete this.```
+
+```Your task is to To the extent you can, try to arrange your life so you have big blocks of time to work in. You MUST complete this.```
+
+```You'll shy away from hard tasks if you know you might be interrupted.```
+
+```Your task is to It will probably be harder to start working than to keep working. You MUST complete this.```
+
+```You'll often have to trick yourself to get over that initial threshold. Let's think step by step.```
+
+```Your task is to Don't worry about this; it's the nature of work, not a flaw in your character. You MUST complete this. Let's think step by step.``` Answer:
+
+```Your task is to Work has a sort of activation energy, both per day and per project. You MUST complete this. Let's think step by step.```
+
+```Your task is to And since this threshold is fake in the sense that it's higher than the energy required to keep going, it's ok to tell yourself a lie of corresponding magnitude to get over it. You MUST complete this. Let's think step by step.``` Answer:
+
+```It's usually a mistake to lie to yourself if you want to do great work, but this is one of the rare cases where it isn't.``` Answer:
+
+```Your task is to When I'm reluctant to start work in the morning, I often trick myself by saying "I'll just read over what I've got so far." Five minutes later I've found something that seems mistaken or incomplete, and I'm off. You MUST complete this.```
+
+```Similar techniques work for starting new projects. Let's think step by step.``` Answer:
+
+```It's ok to lie to yourself about how much work a project will entail, for example. Let's think step by step.```
+
+```Your task is to Lots of great things began with someone saying "How hard could it be?"
+
+This is one case where the young have an advantage. You MUST complete this. Let's think step by step.``` Answer:
+
+```They're more optimistic, and even though one of the sources of their optimism is ignorance, in this case ignorance can sometimes beat knowledge. Let's think step by step.``` Answer:
+
+```Try to finish what you start, though, even if it turns out to be more work than you expected.``` Answer:
+
+```Your task is to Finishing things is not just an exercise in tidiness or self-discipline. You MUST complete this. Let's think step by step.```
+
+```Your task is to In many projects a lot of the best work happens in what was meant to be the final stage. You MUST complete this. Let's think step by step.``` Answer:
+
+```Another permissible lie is to exaggerate the importance of what you're working on, at least in your own mind.```
+
+```If that helps you discover something new, it may turn out not to have been a lie after all.```
