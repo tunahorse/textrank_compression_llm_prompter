@@ -1,4 +1,6 @@
-# Work in Progress: Solving the Problem of Small LLMs Being Slow and Limited by Small Context Windows
+Enhancing Small & Local LLMs: Overcoming Context Limitations with TextRank Compression & Prompting
+
+https://raw.githubusercontent.com/tunahorse/textrank_compression_llm_prompter/master/image.png
 
 This is a "dumb" tool prioritizing working offline and on small hardware (e.g., Raspberry Pi).
 
@@ -47,3 +49,8 @@ script/text_file/percentage_to_compress_down_to
 ```
 
 I am currently obsessed with solving this problem if you want to chat shoot me an email at fabiananguiano@gmail DOT com 
+
+## Studies on compressing inputs and prompting
+
+https://arxiv.org/abs/2310.05736
+https://arxiv.org/pdf/2312.16171
