@@ -1,29 +1,27 @@
-Work in progress, trying to solve the problem of small LLM's being slow and small cotext windows. 
+# Work in Progress: Solving the Problem of Small LLMs Being Slow and Limited by Small Context Windows
 
-This is "dumb" tool and is prioritizing working offline, and on small hardware (thik rpi)
+This is a "dumb" tool prioritizing working offline and on small hardware (e.g., Raspberry Pi).
 
-The script combines text summarization and prompt engineering:
+## The Script Combines Text Summarization and Prompt Engineering:
 
-1. Text Summarization:
-   - Uses the TextRank algorithm for extractive summarization.
-   - Splits input text into sentences, treating each as a node in a graph.
-   - Calculates similarity scores between sentences.
-   - Applies TextRank to rank sentences by importance.
-   - Selects top-ranking sentences and arranges them in original order for coherence.
-   - Outputs the summary to a separate file.
+### 1. Text Summarization:
+- Uses the TextRank algorithm for extractive summarization.
+- Splits input text into sentences, treating each as a node in a graph.
+- Calculates similarity scores between sentences.
+- Applies TextRank to rank sentences by importance.
+- Selects top-ranking sentences and arranges them in original order for coherence.
+- Outputs the summary to a separate file.
 
-2. Prompt Formatting: (ROUGH WIP)
-   - Applies prompt engineering principles to the summarized text.
-   - Removes politeness phrases, uses affirmative language.
-   - Randomly incorporates task-oriented phrases and thinking prompts.
-   - Adds delimiters and output primers.
-   - Writes formatted prompts to a separate file.
+### 2. Prompt Formatting: (ROUGH WIP)
+- Applies prompt engineering principles to the summarized text.
+- Removes politeness phrases, uses affirmative language.
+- Randomly incorporates task-oriented phrases and thinking prompts.
+- Adds delimiters and output primers.
+- Writes formatted prompts to a separate file.
 
-TLDR: 
-
+### TLDR:
 This tool aims to compress large texts into summaries and well-formatted prompts, making them more suitable for small context window LLMs.
 
+Also, if you want a C version of compression, I'm better with Python so I made this but will eventually be 100% C.
 
-Also if you want a C version of compression, im better with python so I made this but will eventually be 100% C 
-
-https://github.com/tunahorse/TextRank_local_text_summarizer
+[GitHub Repository](https://github.com/tunahorse/TextRank_local_text_summarizer)
