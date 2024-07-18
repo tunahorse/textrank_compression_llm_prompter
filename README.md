@@ -1,7 +1,7 @@
 ![TextRank Summarizer and Prompt Formatter](https://raw.githubusercontent.com/tunahorse/textrank_compression_llm_prompter/master/image.png)
 
 
-Enhancing Small & Local LLMs: Overcoming Context Limitations with TextRank Compression & Prompting
+# Enhancing Small & Local LLMs: Overcoming Context Limitations with TextRank Compression & Prompting
 
 
 This is a "dumb" tool prioritizing working offline and on small hardware (e.g., Raspberry Pi).
