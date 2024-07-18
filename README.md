@@ -1,3 +1,6 @@
+![TextRank Summarizer and Prompt Formatter](https://raw.githubusercontent.com/tunahorse/textrank_compression_llm_prompter/master/image.png)
+
+
 Enhancing Small & Local LLMs: Overcoming Context Limitations with TextRank Compression & Prompting
 
 https://raw.githubusercontent.com/tunahorse/textrank_compression_llm_prompter/master/image.png
