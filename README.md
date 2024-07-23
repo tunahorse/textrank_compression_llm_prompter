@@ -50,7 +50,7 @@ Format:
 script/text_file/percentage_to_compress_down_to
 ```
 
-I am currently obsessed with solving this problem if you want to chat shoot me an email at fabiananguiano@gmail DOT com 
+I am currently obsessed with solving this problem if you want to chat shoot me an email or open up a issue 
 
 ## Studies on compressing inputs and prompting
 
